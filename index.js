@@ -6,7 +6,7 @@ module.exports = {
         .use(require("retext-english"))
         .use(require("retext-syntax-mentions"))
         .use(require("retext-syntax-urls"))
-        // .use(require("retext-spell"))
+        .use(require("retext-spell"), require("dictionary-en-us"))
         // .use(require("retext-assuming"))
         // .use(require("retext-cliches"))
         .use(require("retext-contractions"))

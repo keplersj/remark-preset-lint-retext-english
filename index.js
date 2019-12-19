@@ -7,7 +7,6 @@ module.exports = {
         .use(require("retext-syntax-mentions"))
         .use(require("retext-syntax-urls"))
         .use(require("retext-spell"), require("dictionary-en-us"))
-        // .use(require("retext-assuming"))
         .use(require("retext-contractions"))
         .use(require("retext-diacritics"))
         .use(require("retext-equality"))

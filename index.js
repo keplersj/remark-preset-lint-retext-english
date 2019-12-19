@@ -11,7 +11,7 @@ module.exports = {
         .use(require("retext-diacritics"))
         .use(require("retext-equality"))
         .use(require("retext-indefinite-article"))
-        // .use(require("retext-intensify"))
+        .use(require("retext-intensify"))
         // .use(require("retext-overuse"))
         .use(require("retext-passive"))
         .use(require("retext-profanities"))

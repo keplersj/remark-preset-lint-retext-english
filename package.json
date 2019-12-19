@@ -31,6 +31,7 @@
     "retext-english": "^3.0.4",
     "retext-equality": "^4.3.0",
     "retext-indefinite-article": "^1.1.7",
+    "retext-intensify": "^4.0.0",
     "retext-overuse": "^1.1.1",
     "retext-passive": "^2.0.0",
     "retext-profanities": "^5.0.0",

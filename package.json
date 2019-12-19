@@ -1,0 +1,54 @@
+{
+  "name": "remark-preset-lint-retext-english",
+  "version": "0.0.0-development",
+  "description": "remark-lint preset for automated proofreading of English text using retext",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/keplersj/remark-preset-lint-retext-english.git"
+  },
+  "keywords": [
+    "remark",
+    "retext",
+    "english",
+    "writing",
+    "proofreading"
+  ],
+  "author": "Kepler Sticka-Jones <kepler@stickajones.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/keplersj/remark-preset-lint-retext-english/issues"
+  },
+  "homepage": "https://github.com/keplersj/remark-preset-lint-retext-english#readme",
+  "dependencies": {
+    "remark-retext": "^3.1.3",
+    "retext-assuming": "^1.0.0",
+    "retext-cliches": "^1.0.0",
+    "retext-contractions": "^3.0.0",
+    "retext-diacritics": "^2.0.0",
+    "retext-english": "^3.0.4",
+    "retext-equality": "^4.3.0",
+    "retext-indefinite-article": "^1.1.7",
+    "retext-overuse": "^1.1.1",
+    "retext-passive": "^2.0.0",
+    "retext-profanities": "^5.0.0",
+    "retext-readability": "^5.0.0",
+    "retext-redundant-acronyms": "^2.0.0",
+    "retext-repeated-words": "^2.0.0",
+    "retext-sentence-spacing": "^3.0.0",
+    "retext-simplify": "^5.0.0",
+    "retext-spell": "^3.0.0",
+    "retext-syntax-mentions": "^1.1.6",
+    "retext-syntax-urls": "^1.0.2",
+    "unified": "^8.4.2"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0",
+    "jest-runner-prettier": "^0.3.4",
+    "prettier": "^1.19.1",
+    "semantic-release": "^15.13.31"
+  }
+}

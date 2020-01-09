@@ -48,6 +48,6 @@
     "jest": "^24.9.0",
     "jest-runner-prettier": "^0.3.4",
     "prettier": "^1.19.1",
-    "semantic-release": "^15.13.31"
+    "semantic-release": "^16.0.0"
   }
 }

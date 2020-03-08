@@ -27,7 +27,7 @@
     "dictionary-en-us": "^3.0.0",
     "remark-retext": "^3.1.3",
     "retext-contractions": "^4.0.0",
-    "retext-diacritics": "^2.0.0",
+    "retext-diacritics": "^3.0.0",
     "retext-english": "^3.0.4",
     "retext-equality": "^4.3.0",
     "retext-indefinite-article": "^2.0.0",

@@ -40,7 +40,7 @@
     "retext-sentence-spacing": "^3.0.0",
     "retext-simplify": "^5.0.0",
     "retext-spell": "^3.0.0",
-    "retext-syntax-mentions": "^1.1.6",
+    "retext-syntax-mentions": "^2.0.0",
     "retext-syntax-urls": "^1.0.2",
     "unified": "^8.4.2"
   },

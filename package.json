@@ -41,7 +41,7 @@
     "retext-simplify": "^5.0.0",
     "retext-spell": "^3.0.0",
     "retext-syntax-mentions": "^2.0.0",
-    "retext-syntax-urls": "^1.0.2",
+    "retext-syntax-urls": "^2.0.0",
     "unified": "^8.4.2"
   },
   "devDependencies": {

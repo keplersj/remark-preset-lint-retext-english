@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/keplersj/remark-preset-lint-retext-english#readme",
   "dependencies": {
-    "dictionary-en-us": "^3.0.0",
+    "dictionary-en": "^3.0.0",
     "remark-retext": "^4.0.0",
     "retext-contractions": "^4.0.0",
     "retext-diacritics": "^3.0.0",

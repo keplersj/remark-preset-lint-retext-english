@@ -6,7 +6,7 @@ module.exports = {
         .use(require("retext-english"))
         .use(require("retext-syntax-mentions"))
         .use(require("retext-syntax-urls"))
-        .use(require("retext-spell"), require("dictionary-en-us"))
+        .use(require("retext-spell"), require("dictionary-en"))
         .use(require("retext-contractions"))
         .use(require("retext-diacritics"))
         .use(require("retext-equality"))
@@ -18,7 +18,7 @@ module.exports = {
         .use(require("retext-redundant-acronyms"))
         .use(require("retext-repeated-words"))
         .use(require("retext-sentence-spacing"))
-        .use(require("retext-simplify"))
-    ]
-  ]
+        .use(require("retext-simplify")),
+    ],
+  ],
 };

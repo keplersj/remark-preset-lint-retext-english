@@ -40,18 +40,18 @@
     "retext-sentence-spacing": "^4.0.0",
     "retext-simplify": "^6.0.0",
     "retext-spell": "^4.0.0",
-    "retext-syntax-mentions": "^2.0.0",
+    "retext-syntax-mentions": "^2.1.0",
     "retext-syntax-urls": "^2.0.0",
     "unified": "^9.0.0"
   },
   "devDependencies": {
     "eslint": "^6.8.0",
-    "eslint-config-starstuff": "^1.4.5",
-    "jest": "^25.1.0",
-    "jest-runner-eslint": "^0.7.6",
-    "jest-runner-prettier": "^0.3.4",
-    "prettier": "^2.0.0",
-    "semantic-release": "^17.0.1"
+    "eslint-config-starstuff": "^1.4.42",
+    "jest": "^25.4.0",
+    "jest-runner-eslint": "^0.7.7",
+    "jest-runner-prettier": "^0.3.6",
+    "prettier": "^2.0.5",
+    "semantic-release": "^17.0.7"
   },
   "eslintConfig": {
     "extends": "starstuff/auto",

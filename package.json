@@ -37,7 +37,7 @@
     "retext-readability": "^7.0.0",
     "retext-redundant-acronyms": "^3.0.0",
     "retext-repeated-words": "^4.0.0",
-    "retext-sentence-spacing": "^4.0.0",
+    "retext-sentence-spacing": "^5.0.0",
     "retext-simplify": "^7.0.0",
     "retext-spell": "^4.0.0",
     "retext-syntax-mentions": "^2.1.0",

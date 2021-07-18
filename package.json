@@ -26,7 +26,7 @@
   "dependencies": {
     "dictionary-en": "^3.0.0",
     "remark-retext": "^4.0.0",
-    "retext-contractions": "^4.0.0",
+    "retext-contractions": "^5.0.0",
     "retext-diacritics": "^4.0.0",
     "retext-english": "^4.0.0",
     "retext-equality": "^5.0.0",

@@ -39,7 +39,7 @@
     "retext-repeated-words": "^4.0.0",
     "retext-sentence-spacing": "^5.0.0",
     "retext-simplify": "^7.0.0",
-    "retext-spell": "^4.0.0",
+    "retext-spell": "^5.0.0",
     "retext-syntax-mentions": "^3.0.0",
     "retext-syntax-urls": "^3.0.0",
     "unified": "^10.0.0"

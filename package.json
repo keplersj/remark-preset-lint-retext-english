@@ -18,6 +18,10 @@
     "proofreading"
   ],
   "author": "Kepler Sticka-Jones <kepler@stickajones.org>",
+  "funding": {
+    "type": "github-sponsors",
+    "url": "https://github.com/sponsors/keplersj"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/keplersj/remark-preset-lint-retext-english/issues"

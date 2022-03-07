@@ -49,13 +49,12 @@
     "unified": "^10.0.0"
   },
   "devDependencies": {
-    "eslint": "^6.8.0",
-    "eslint-config-starstuff": "^1.4.42",
-    "jest": "^27.0.4",
-    "jest-runner-eslint": "^0.10.0",
-    "jest-runner-prettier": "^0.3.6",
-    "prettier": "^2.0.5",
-    "semantic-release": "^17.0.7"
+    "eslint": "^8.10.0",
+    "eslint-config-starstuff": "^1.5.10",
+    "jest": "^27.5.1",
+    "jest-runner-eslint": "^1.0.0",
+    "jest-runner-prettier": "^1.0.0",
+    "prettier": "^2.5.1"
   },
   "eslintConfig": {
     "extends": "starstuff/auto",

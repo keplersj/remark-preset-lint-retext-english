@@ -22,23 +22,24 @@ export default {
   plugins: [
     [
       remarkRetext,
-      unified()
-        .use(retextEnglish)
-        .use(retextSyntaxMentions)
-        .use(retextSyntaxUrls)
-        .use(retextSpell, dictionary)
-        .use(retextContractions)
-        .use(retextDiacritics)
-        .use(retextEquality)
-        .use(retextIndefiniteArticle)
-        .use(retextIntensify)
-        .use(retextPassive)
-        .use(retextProfanities)
-        .use(retextReadability)
-        .use(retextRedundantAcronyms)
-        .use(retextRepeatedWords)
-        .use(retextSentenceSpacing)
-        .use(retextSimplify),
+      unified().use([
+        retextEnglish,
+        retextSyntaxMentions,
+        retextSyntaxUrls,
+        [retextSpell, dictionary],
+        retextContractions,
+        retextDiacritics,
+        retextEquality,
+        retextIndefiniteArticle,
+        retextIntensify,
+        retextPassive,
+        retextProfanities,
+        retextReadability,
+        retextRedundantAcronyms,
+        retextRepeatedWords,
+        retextSentenceSpacing,
+        retextSimplify,
+      ]),
     ],
   ],
 };

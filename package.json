@@ -2,6 +2,7 @@
   "name": "remark-preset-lint-retext-english",
   "version": "0.0.0-development",
   "description": "remark-lint preset for automated proofreading of English text using retext",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "jest"

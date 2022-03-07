@@ -51,15 +51,15 @@
     "unified": "^10.1.1"
   },
   "devDependencies": {
-    "@commitlint/cli": "^16.2.1",
-    "@commitlint/config-conventional": "^16.2.1",
-    "eslint": "^8.10.0",
-    "eslint-config-starstuff": "^1.5.10",
-    "husky": "^7.0.4",
-    "jest": "^27.5.1",
-    "jest-runner-eslint": "^1.0.0",
-    "jest-runner-prettier": "^1.0.0",
-    "prettier": "^2.5.1"
+    "@commitlint/cli": "16.2.1",
+    "@commitlint/config-conventional": "16.2.1",
+    "eslint": "8.10.0",
+    "eslint-config-starstuff": "1.5.10",
+    "husky": "7.0.4",
+    "jest": "27.5.1",
+    "jest-runner-eslint": "1.0.0",
+    "jest-runner-prettier": "1.0.0",
+    "prettier": "2.5.1"
   },
   "eslintConfig": {
     "extends": "starstuff/auto",

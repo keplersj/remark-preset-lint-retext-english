@@ -32,7 +32,7 @@
   "dependencies": {
     "dictionary-en": "^3.1.0",
     "remark-retext": "^5.0.1",
-    "retext-contractions": "^5.2.0",
+    "retext-contractions": "^6.0.0",
     "retext-diacritics": "^5.0.0",
     "retext-english": "^5.0.0",
     "retext-equality": "^6.6.0",

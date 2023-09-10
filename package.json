@@ -44,7 +44,7 @@
     "retext-redundant-acronyms": "^5.0.0",
     "retext-repeated-words": "^5.0.0",
     "retext-sentence-spacing": "^6.0.0",
-    "retext-simplify": "^7.2.0",
+    "retext-simplify": "^8.0.0",
     "retext-spell": "^5.1.0",
     "retext-syntax-mentions": "^4.0.0",
     "retext-syntax-urls": "^4.0.0",

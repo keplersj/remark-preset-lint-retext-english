@@ -51,8 +51,8 @@
     "unified": "^11.0.0"
   },
   "devDependencies": {
-    "@commitlint/cli": "17.7.2",
-    "@commitlint/config-conventional": "17.7.0",
+    "@commitlint/cli": "17.8.0",
+    "@commitlint/config-conventional": "17.8.0",
     "eslint": "8.51.0",
     "eslint-config-starstuff": "1.5.43",
     "husky": "8.0.3",

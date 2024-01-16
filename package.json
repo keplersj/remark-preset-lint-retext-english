@@ -54,7 +54,7 @@
     "@commitlint/cli": "18.4.4",
     "@commitlint/config-conventional": "18.4.4",
     "eslint": "8.56.0",
-    "eslint-config-starstuff": "1.5.56",
+    "eslint-config-starstuff": "1.5.57",
     "husky": "8.0.3",
     "jest": "29.7.0",
     "jest-runner-eslint": "2.1.2",
